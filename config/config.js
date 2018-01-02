@@ -16,7 +16,7 @@ var config = { // eslint-disable-line no-unused-vars
 //  useStunTurn: true, // use XEP-0215 to fetch STUN and TURN server
 //  useIPv6: true, // ipv6 support. use at your own risk
     useNicks: false,
-    bosh: '//localhost:9090/http-bind', // FIXME: use xep-0156 for that
+    bosh: '//meet-ai.vjra.co/http-bind', // FIXME: use xep-0156 for that
     clientNode: 'http://jitsi.org/jitsimeet', // The name of client node advertised in XEP-0115 'c' stanza
     focusUserJid: 'focus@auth.prosody', // The real JID of focus participant - can be overridden here
     //defaultSipNumber: '', // Default SIP number
