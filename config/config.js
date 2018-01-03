@@ -29,7 +29,7 @@ var config = { // eslint-disable-line no-unused-vars
     ],
 
     // The ID of the jidesha extension for Chrome.
-    desktopSharingChromeExtId: 'ibkdacndfngfhihelleffljgkfdcndho',
+    desktopSharingChromeExtId: 'hbmpbebbpckjdhmfmfadaipcliilkfcb',
     // Whether desktop sharing should be disabled on Chrome.
     desktopSharingChromeDisabled: false,
     // The media sources to use when using screen sharing with the Chrome
